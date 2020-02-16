@@ -3,7 +3,7 @@
 
 ## Contact Info
 
-**E-mail:** strekalova.olg@yandex.ru;
+**E-mail:** strekalova.olg@yandex.ru;  
 **Phone number:** +79502250258 (also available in whatsapp, telegram and skype);
 
 ## Summary
@@ -21,15 +21,17 @@ HTML5, CSS3, JavaScript, Less, Sass, Gulp.
 
 ## Experience
 
-**1. Study project "Device"** - html and css for index and catalog page, js for popups (https://github.com/o-strekalova/1119951-device-26);
+1. **Study project ["Device"](https://github.com/o-strekalova/1119951-device-26)** - html and css for index and catalog page, js for popups;
 
-**1. Study project "Pognali"** - adaptive html and css for index, catalog and profile pages (https://github.com/o-strekalova/1119951-pognali-18).
+1. **Study project ["Pognali"](https://github.com/o-strekalova/1119951-pognali-18)** - adaptive html and css for index, catalog and profile pages .
 
 ## Education
 
-* **2019 - 2020** - HTML Academy (online course "Frontent developer");
+* **2019 - 2020**  
+HTML Academy (online course "Frontent developer");
 
-* **2010 - 2015** - Saint-Petesburg State University (Masters in Advertising).
+* **2010 - 2015**  
+Saint-Petesburg State University (Masters in Advertising).
 
 ## English
 
