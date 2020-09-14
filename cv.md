@@ -4,7 +4,7 @@
 ## Contact Info
 
 **E-mail:** strekalova.olg@yandex.ru;  
-**Phone number:** +79502250258 (also available in whatsapp, telegram and skype);
+**Phone number:** +79502250258 (also available in Whatsapp, Telegram and Skype);
 
 ## Summary
 
@@ -12,27 +12,36 @@ Entry-level specialist in frontend development with experience of a manager posi
 
 ## Skills
 
-HTML5, CSS3, JavaScript, Less, Sass, Gulp.
+JavaScript, TypeScript, React, Redux, HTML5, CSS3, BEM, Less, Sass, Gulp, Webpack. 
 
-## Code examples
+## Code Examples
 
-* [Device](https://github.com/o-strekalova/1119951-device-26)
+* [Six Cities](https://github.com/o-strekalova/1119951-six-cities-4)
+* [Big Trip](https://github.com/o-strekalova/1119951-big-trip-11)
+* [Keksobooking](https://github.com/o-strekalova/1119951-keksobooking-19)
 * [Pognali](https://github.com/o-strekalova/1119951-pognali-18)
+* [Device](https://github.com/o-strekalova/1119951-device-26)
 
 ## Experience
 
-1. **Study project ["Device"](https://github.com/o-strekalova/1119951-device-26)** - html and css for index and catalog page, js for popups;
+1. **Study project [Six Cities](https://github.com/o-strekalova/1119951-six-cities-4)** - React, JavaScript, TypeScript.
 
-1. **Study project ["Pognali"](https://github.com/o-strekalova/1119951-pognali-18)** - adaptive html and css for index, catalog and profile pages .
+1. **Study project [Big Trip](https://github.com/o-strekalova/1119951-big-trip-11)** - JavaScript, OOP.
+
+1. **Study project [Keksobooking](https://github.com/o-strekalova/1119951-keksobooking-19)** - Native JavaScript.
+
+1. **Study project [Pognali](https://github.com/o-strekalova/1119951-pognali-18)** - Adaptive HTML and CSS for index, catalog and profile pages. 
+
+1. **Study project [Device](https://github.com/o-strekalova/1119951-device-26)** - HTML and CSS for index and catalog page, JavaScript for popups.
 
 ## Education
 
 * **2019 - 2020**  
-HTML Academy (online course "Frontent developer");
+HTML Academy (online course "React Developer");
 
 * **2010 - 2015**  
 Saint-Petesburg State University (Masters in Advertising).
 
 ## English
 
-Can read, listen, write and speak in English. Have experience of communicating with foreign students, during travelling, and internatinal events.
+Can read, listen, write and speak in English. Have experience of communicating with foreign students, during travelling and internatinal events.
